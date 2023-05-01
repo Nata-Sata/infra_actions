@@ -43,4 +43,4 @@ jobs:
           uses: docker/build-push-action@v2
           with:
             push: true
-            tags: Nata-Sata/infra_actions.git:latest
+            tags: nata-sata/infra_actions.git:latest
